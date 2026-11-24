@@ -235,12 +235,4 @@ flowchart LR
 - 끊긴 플레이어의 재접속, 전체 밸런스 조정
 - 엘리트 전투·상점·랜덤 이벤트 등 방 종류 추가
 
-## 10. 사용한 에셋
 
-- 캐릭터 애니메이션: [Mixamo](https://www.mixamo.com/)
-- 몬스터 모델: Low Poly Medieval Fantasy Biped Creatures (Polysplit Games)
-- 맵·소품: Low Poly Dungeons, Low Poly Medieval Props Lite, Simple Nature Pack
-- 스킬 이펙트: Spells Pack
-- 일부 소품 모델: Blender MCP로 직접 제작
-
-에셋은 각 제작자의 라이선스를 따르며 이 저장소에 포함되어 있지 않습니다.
